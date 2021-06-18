@@ -12,6 +12,7 @@ python -m information_collector —help
 Чтобы поменять почту нужно установить переменные окружения MY_MAIL и MY_MAIL_PASSWORD, или руками в коде
 
 Что бы запустить из репозитория, придется руками установить зависимости которые можно найти в setup.py
+
 git clone ...
 
 Тестовая почта: mailforrobotr2d2@gmail.com
