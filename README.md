@@ -13,7 +13,9 @@ python -m information_collector —help
 
 git clone https://github.com/DenisBogush/information_collector.git
 
+cd information_collector
 
+python main.py —help
 
 Чтобы поменять почту нужно установить переменные окружения MY_MAIL и MY_MAIL_PASSWORD, или руками в коде
 
